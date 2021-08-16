@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jcol9532
-- 👀 I’m interested in Azure AD
+- 👀 I’m interested in Microsoft Azure and Microsoft 365
 - 🌱 I’m currently learning AZ-104
 .
 
